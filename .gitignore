@@ -106,5 +106,7 @@ venv.bak/
 # misc
 *.sqlite
 .idea/
+model/
 credentials.py
 .idea/vcs.xml
+formulas.py
